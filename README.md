@@ -18,12 +18,12 @@ The app includes features such as information pages, quizzes, engaging games, an
 
 ## Screenshots
 <!-- Screenshot image of some screen and place in ~/images folder from root app -->
-<img src="images/p5.png" width="40%" style="inline-block" alt='screen1'>
-<img src="images/p1.png" width="40%" style="inline-block" alt='screen2'>
-<img src="images/p3.png" width="40%" style="inline-block" alt='screen3'>
-<img src="images/p4.png" width="40%" style="inline-block" alt='screen4'>
-<img src="images/p2.png" width="40%" style="inline-block" alt='screen5'>
-<img src="images/p6.png" width="40%" style="inline-block" alt='screen6'>
+<img src="images/p5.jpg" width="40%" style="inline-block" alt='screen1'>
+<img src="images/p1.jpg" width="40%" style="inline-block" alt='screen2'>
+<img src="images/p3.jpg" width="40%" style="inline-block" alt='screen3'>
+<img src="images/p4.jpg" width="40%" style="inline-block" alt='screen4'>
+<img src="images/p2.jpg" width="40%" style="inline-block" alt='screen5'>
+<img src="images/p6.jpg" width="40%" style="inline-block" alt='screen6'>
 
 
 ## Getting Started
