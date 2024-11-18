@@ -43,7 +43,7 @@ The app includes features such as information pages, quizzes, engaging games, an
 - Run the app using `yarn start` or another suitable command
 
 ```bash
-git clone https://github.com/Phuc1Le/Sea-Sense
-cd app-marine
+git clone https://github.com/Phuc1Le/Sea-Sense.git
+cd Sea-Sense
 yarn
 yarn start
